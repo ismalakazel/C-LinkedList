@@ -1,4 +1,4 @@
-# Server-Client Chat Over C Sockets
+# C Linked List
 
 *© Israel Pereira Tavares da Silva*
 
